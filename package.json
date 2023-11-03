@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "mocha --recursive test/backgrund.spec.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.10"
+  },
+  "devDependencies": {
+    "sinon-chrome": "^3.0.1"
+  },
+  "type": "module"
+}
