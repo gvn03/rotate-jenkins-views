@@ -9,7 +9,7 @@
     "icons": {
            "16": "icons/slideshow-24.png",
            "48": "icons/slideshow-48.png",
-          "128": "icons/slideshow-128.png"
+          "128": "icons/slideshow-96.png"
     },
 
     "action": {
